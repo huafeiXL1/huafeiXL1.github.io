@@ -1,25 +1,132 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>小利特惠-彦祖</title><link>https://huafeiXL1.github.io</link><description>防失联地址，务必保存！联系我@huafeiXL_Bot   交流群@huafeiXL1</description><copyright>小利特惠-彦祖</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://s21.ax1x.com/2025/06/25/pVeb5Is.jpg</url><title>avatar</title><link>https://huafeiXL1.github.io</link></image><lastBuildDate>Sat, 12 Jul 2025 15:06:19 +0000</lastBuildDate><managingEditor>小利特惠-彦祖</managingEditor><ttl>60</ttl><webMaster>小利特惠-彦祖</webMaster><item><title>新人教程-项目介绍-玩法</title><link>https://huafeiXL1.github.io/post/xin-ren-jiao-cheng---xiang-mu-jie-shao---wan-fa.html</link><description># 业务介绍
-## 话费/电费
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>小利特惠-彦祖</title><link>https://huafeiXL1.github.io</link><description>防失联地址，务必保存！联系我@huafeiXL_Bot   交流群@huafeiXL1</description><copyright>小利特惠-彦祖</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://s21.ax1x.com/2025/06/25/pVeb5Is.jpg</url><title>avatar</title><link>https://huafeiXL1.github.io</link></image><lastBuildDate>Sat, 12 Jul 2025 15:14:01 +0000</lastBuildDate><managingEditor>小利特惠-彦祖</managingEditor><ttl>60</ttl><webMaster>小利特惠-彦祖</webMaster><item><title>新人教程-项目介绍-玩法</title><link>https://huafeiXL1.github.io/post/xin-ren-jiao-cheng---xiang-mu-jie-shao---wan-fa.html</link><description># 📋 平台业务全解析
 
-* 本平台话费板块开放三个话费充值通道和一个电费充值通道
-* `7折话费`充值通道：稳定`无骚扰`，`保到账`，`有售后`
-* `6折/5折话费`充值通道：`少量骚扰`，`保到账`，`无售后`
-* `电费`通道：`500元8折`，`1000元及以上`电费充值`7折`，`保到账`，`有售后`
-* 下完单可以到订单栏（不是在线订单）中查看订单状态，显示已完成时，则该订单已经充值完毕！
+## 一、核心业务介绍
+### 话费/电费充值通道
+| 业务类型       | 折扣       | 特点                              | 售后保障          |
+|----------------|------------|-----------------------------------|-------------------|
+| 话费通道1      | 7折        | 稳定无骚扰，到账有保障            | 全程包售后        |
+| 话费通道2      | 6折/5折    | 少量骚扰，到账稳定                | 无售后            |
+| 电费通道       | 500元8折&lt;br&gt;1000元及以上7折 | 到账有保障                        | 全程包售后        |
 
-## 后续业务展望
+&gt; 订单查询：下单后可在「我的→订单栏」（非在线订单）查看状态，显示“已完成”即为充值成功
 
-* `抖音月付`
-* `京东白条`
-* `信用卡`
-* `花呗代还`
-* 其他优惠充值代还业务
 
-# 如何赚钱
-## 通过做单赚取差价
-* 盈利主要就是`低买高卖`，赚取`差价`
-* 例如你以`￥450`接了一个`￥500`的话费充值单，你再`￥350`（平台进价`7折`）的价格从平台下单，订单完成你即可获得`￥100`差价。</description><guid isPermaLink="true">https://huafeiXL1.github.io/post/xin-ren-jiao-cheng---xiang-mu-jie-shao---wan-fa.html</guid><pubDate>Fri, 04 Jul 2025 13:10:00 +0000</pubDate></item><item><title>推广返佣</title><link>https://huafeiXL1.github.io/post/tui-guang-fan-yong.html</link><description># 推广返佣体系详解
+### 后续业务规划
+即将上线：抖音月付、京东白条、信用卡代还、花呗代还等优惠充值代还业务，敬请期待！
+
+
+## 二、盈利模式说明
+### 1. 做单赚差价
+- **核心逻辑**：低买高卖，赚取中间差价  
+- **示例**：接500元话费单（收客户450元）→ 从平台以7折（350元）下单 → 净赚100元  
+- **收益潜力**：每日接5单500元话费，利润可达500元，多劳多得
+
+
+### 2. 发展代理赚返佣
+#### （1）下级代理订单分佣
+- **十级穿透分佣**（按充值金额计算）：  
+  - 一级代理：1.0%（每充10000元返100元）  
+  - 二级代理：0.5%（每充10000元返50元）  
+  - 三级代理：0.4%（每充10000元返40元）  
+  - 四级代理：0.3%（每充10000元返30元）  
+  - 五级代理：0.3%（每充10000元返30元）  
+  - 六级至十级代理：各0.1%（每充10000元返10元）  
+
+- **收益示例**：  
+  - 一级代理每完成1单500元订单，你得5元返佣  
+  - 二级代理每完成1单500元订单，你得2.5元返佣  
+  - 若直推50个代理，每个每天接5单500元 → 每日分佣：5元×5单×50人=1250元  
+
+
+#### （2）代理激活代理权分佣
+- **激活流程**：我的→代理中心→激活代理→支付300U→解冻余额  
+- **激活优势**：300U可全额用分佣余额抵扣，无需自掏腰包，解冻后余额可提现或出售  
+- **分佣规则**（十级穿透返还）：  
+  - 一级代理激活：返80U（约576元，按1U=7.2元计）  
+  - 二级代理激活：返50U  
+  - 三级至五级代理激活：各返10U  
+- **收益示例**：直推50个一级代理全部激活 → 576元×50=28800元  
+
+
+## 三、代理中心说明
+1. **成为代理**：注册即享代理资格，无预存，一单一结  
+   - 注册链接：[点击注册](https://h5.xlthshop.com/#/pages/auth/register?inviteCode=b03fca)（邀请码：b03fca）  
+   -  Telegram群：[@huafeiXL1](https://t.me/huafeiXL1)  
+   - 注意：注册后需将平台昵称改为与Telegram/微信一致，便于售后；禁止多开账号，违者封禁  
+
+2. **发展下级代理**：  
+   我的→推广海报→推广链接/邀请码，他人通过你的链接注册即为下级代理，享受同折扣  
+
+3. **未激活状态**：分佣为冻结状态（我的→冻结金额），无法提现或出售  
+
+
+## 四、余额管理（充值/提现/出售）
+### 1. 余额充值
+#### （1）平台内置交易购买
+- 路径：我的→在线数字货币交易→选择商家→购买→输入数量→选择付款方式→确认  
+- 流程：等待商家接单→付款并上传凭证→商家确认后放币到余额（有问题联系客服介入）  
+- 注意：付款前确认商家在线，所有沟通不离开平台  
+
+#### （2）通过交易所购买（以欧易/火币为例）
+- **欧易（OKX）**：  
+  打开欧易→C2C买币→选择商家→确认数量/付款方式→下单→按商家要求付款→上传凭证→等待确认放币  
+  
+  
+  https://github.com/user-attachments/assets/11a6fe9b-ac36-48f7-bb86-2273f5e87b68
+  
+- **火币**：  
+  打开火币→CNY买币→切换至C2C→选择商家→下单→付款并上传凭证→等待确认放币  
+- 提币至平台：我的→钱包地址→输入交易所钱包地址→提币→上传截图→提交（3-5分钟到账）  
+https://github.com/user-attachments/assets/5c01c9c0-f5a2-45e6-b6d6-74a0004f8659
+
+### 2. 余额提现
+- 路径：我的→余额提现→输入数量及钱包地址→确认  
+- 规则：20U起提，手续费2U，1-24小时到账  
+
+
+### 3. 余额出售
+- 路径：我的→在线数字货币交易→余额出售→输入数量及价格→等待下单  
+- 注意：收到货款后再放币，未收款绝不放币  
+
+
+## 五、热门问题解答（新手必看）
+### 1. 充值到账时间
+- 话费：1-3日，电费：7日内（慢充，金额越大速度越快）  
+- 提示：查不到余额的号码无法充值，超时未到账可撤单  
+
+
+### 2. 关于骚扰与风险
+- 风险说明：高折扣渠道可能存在骚扰（概率问题），极端情况可能冻结账号/银行卡（极低概率）  
+- 售后保障：高折扣若出现划扣冻结，全额赔付，需保存证据联系客服  
+- 应对建议：若遇警方询问，推责平台，称“不知情，在网上看到的优惠”，避免提及盈利  
+
+
+### 3. 订单失败原因
+- 多为运营商/电网系统维护，通常2-3小时恢复，最长不超过24小时，建议稍后重新上传  
+
+
+### 4. 冻结处理
+- **银行止付**：多因夜间大额进账、快进快出，3天内通常自动解冻  
+- **司法冻结**：可能冻结同银行所有储蓄卡，时间3天至6个月不等，解冻时同步解除  
+- **应对核心**：强调自己是受害者，推责平台，称“仅尝试充值，不知资金问题”  
+
+
+### 5. 售后与客服
+- 订单/充值/提现问题：联系在线客服，提供订单号说明问题  
+- 平台使用问题：联系上级代理或在线客服  
+
+
+## 六、安全提示
+1. 隐私保护：昵称与Telegram一致，注册后立即修改交易密码，妥善保管账号信息  
+2. 防骗提醒：  
+   - 警惕伪装客服：要求先放U再打款的均为骗子  
+   - 警惕钓鱼链接：平台不会索要账号密码，收到类似链接直接拉黑  
+   - 核心原则：没收到货款绝不放币  
+
+
+## 七、常见问题链接
+[注册常见问题](http://97.74.89.252:9986/doc/135/ '问题')。</description><guid isPermaLink="true">https://huafeiXL1.github.io/post/xin-ren-jiao-cheng---xiang-mu-jie-shao---wan-fa.html</guid><pubDate>Fri, 04 Jul 2025 13:10:00 +0000</pubDate></item><item><title>推广返佣</title><link>https://huafeiXL1.github.io/post/tui-guang-fan-yong.html</link><description># 推广返佣体系详解
 
 ## 一、发展代理的核心优势
 ### 1. 收益增长案例演示
